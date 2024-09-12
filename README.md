@@ -1,4 +1,7 @@
 ## Resolução do Desafio
+
+Boa tarde! Segue as respostas que não form anexadas direto no Gupy.
+
 **questão 3** 
 A resolução está no arquivo `main.py`. 
 
@@ -38,5 +41,8 @@ O carro está a aproximadamente 43,65 km de Ribeirão Preto no momento do encont
 O caminhão está a aproximadamente 58,80 km de Ribeirão Preto no momento do encontro.
 
 Conclusão: O carro estará mais próximo da cidade de Ribeirão Preto quando os veículos se cruzarem.
+
+Atenciosamente, 
+Uarley Miranda Magalhães
 
 ​
