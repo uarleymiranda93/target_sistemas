@@ -26,7 +26,7 @@ Distancia percorrida pelo carro = Velocidade do carro × Tempo = 90 km/h ×
 -Para o caminhão:
 Distancia percorrida pelo caminhao = Velocidade do caminhao×Tempo = 80km/h×0,735h≈58,80km
 
-Passo 3: Ajusei a distância percorrida pelo carro devido ao tempo extra nos pedágios.
+Passo 3: Ajustei a distância percorrida pelo carro devido ao tempo extra nos pedágios.
 O carro leva 15 minutos a mais devido aos pedágios. Convertendo 15 minutos para horas:
 15minutos= 15/60=0,25h
 
